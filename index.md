@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Zayaan's First CS193 Homework
+
+- I like the teachers
+- I enjoy computer science
+- this is a cool assigment
+
+**this is bold**
+
+_this is italicized_
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
